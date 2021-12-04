@@ -18,7 +18,7 @@ function Header() {
         
       <Link to="/" className="header_link">
             <div onClick="/" className="header_option">
-            <a href="https://github.com/dharniel45/Testimonials" className="header_optionLineOne">ABOUT US</a>
+            <span className="header_optionLineOne">ABOUT US</span>
             </div>
             </Link>
       
