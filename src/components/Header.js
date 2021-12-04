@@ -18,7 +18,7 @@ function Header() {
         
       <Link to="/" className="header_link">
             <div onClick="/" className="header_option">
-            <a className="header_optionLineOne">ABOUT US</a>
+            <a href="#" className="header_optionLineOne">ABOUT US</a>
             </div>
             </Link>
       
