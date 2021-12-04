@@ -70,13 +70,7 @@ function Footer() {
           </div>
              <div class='footer-link-items'>
             <h2>Join our community</h2>
-            <div class='tex'>
-            
-            <a href='/'></a>
-            <a href ='/'></a>
-            <a href ='/'></a>
-            <a href='/'></a>
-          </div>
+           
             <Link to='/'>Email Newsletter</Link>
             
           </div>
