@@ -3,7 +3,7 @@ import { BrowserRouter as Router } from "react-router-dom";
 import Header from"./components/Header";
 import Home from"./components/Home";
 import './App.css';
-import classNames from 'classnames';
+
 import styles from "./App.css";
 import Experience from "./components/Experience";
 import People from "./components/people";
@@ -11,15 +11,10 @@ import Josiah from "./components/Josiah";
 import Footer from "./components/footer";
 
 const App = () => {
-  const isMobile = useMediaQuery(768);
-  const isTablet = useMediaQuery(1024);
+  
   return (
     <Router>
-    <div className={classNames([
-        styles.layout,
-        isMobile && styles.mobile,
-        isTablet && styles.tablet,
-      ])}>
+    <div>
 
      <Header />
      <Home />
