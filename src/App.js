@@ -4,7 +4,7 @@ import Header from"./components/Header";
 import Home from"./components/Home";
 import './App.css';
 
-import styles from "./App.css";
+
 import Experience from "./components/Experience";
 import People from "./components/people";
 import Josiah from "./components/Josiah";
