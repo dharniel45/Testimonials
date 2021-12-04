@@ -1,0 +1,74 @@
+.des{
+    display: flex;
+    height: 100vh;
+   
+}
+
+.left {
+    flex: 1;
+    
+}
+
+.right {
+    flex: 1;
+   
+    
+}
+
+.i-imeg {
+    width: 500px;
+    height: 473px;
+    object-fit: cover;
+    margin-top: 184px;
+    position: absolute;
+    
+}
+
+.bux {
+    background-color: black;
+    height: 100vh;
+}
+
+.i-byg {
+    clip-path: circle(50% at 50% 50%);
+    background-color: white;
+    width: 500px;
+    height: 500px;
+    margin-top: 100px;
+    position: absolute;
+    opacity: 0.3;
+    
+
+}
+
+.box-2 {
+    font-weight: 400;
+}
+
+.box-3 {
+    font-weight: 600;
+    letter-spacing: 5px;
+    
+}
+
+.gased {
+    border: 1px solid white;
+    border-radius: 2px;
+    border-width: 1px;
+    width: 15%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.box-1 {
+    font-weight: bold;
+    letter-spacing: 1px;
+    
+}
+
+.i-left-wrappr {
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+}

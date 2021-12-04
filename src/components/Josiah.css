@@ -1,0 +1,80 @@
+.des{
+    display: flex;
+    height: 100vh;
+   
+}
+
+.left {
+    flex: 1;
+    
+}
+
+.right {
+    flex: 1;
+   margin-top: 120px;
+   margin-left: 50px;
+   margin-right: 50px;
+    
+}
+
+.i-imeg {
+    width: 500px;
+    height: 473px;
+    object-fit: cover;
+    margin-top: 184px;
+    position: absolute;
+    
+}
+
+.box {
+    background-color:  #ffead5;
+    height: 100vh;
+}
+
+.i-beg {
+    clip-path: circle(50% at 50% 50%);
+    background-color: white;
+    width: 500px;
+    height: 500px;
+    margin-top: 100px;
+    position: absolute;
+    opacity: 0.3;
+    
+
+}
+
+.box-2 {
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.box-3 {
+    font-weight: 600;
+    letter-spacing: 5px;
+    
+}
+
+.gased {
+    border: 1px solid white;
+    border-radius: 2px;
+    border-width: 1px;
+    width: 15%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.box-1 {
+    font-weight: bold;
+    letter-spacing: 1px;
+    
+}
+
+.i-left-wrapp {
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+    color: black;
+    margin-top: 100px;
+}
+
