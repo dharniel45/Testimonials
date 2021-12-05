@@ -1,7 +1,7 @@
 .des{
     display: flex;
     height: 100vh;
-  
+    margin-bottom: 500px;
 }
 
 .left {
@@ -20,7 +20,7 @@
     height: 473px;
     object-fit: cover;
     margin-top: 500px;
-    bottom: 1000px;
+    
     position: absolute;
     
 }
