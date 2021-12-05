@@ -20,7 +20,7 @@
     height: 473px;
     object-fit: cover;
     margin-top: 500px;
-    margin-bottom: 200px;
+    bottom: 200px;
     position: absolute;
     
 }
